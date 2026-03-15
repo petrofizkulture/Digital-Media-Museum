@@ -17,6 +17,7 @@
     "developer": "Outfit7",
     "status": "Alive",
     "platform": ["Android", "iOS"],
+    "release_year": 2010,
     "description": "A cute baby hippo that repeats your voice and reacts to interactions.",
     "icon": "icons/o7/0x00002.png"
   },
@@ -27,7 +28,19 @@
     "developer": "Outfit7",
     "status": "Alive",
     "platform": ["Android", "iOS"],
+    "release_year": 2010,
     "description": "Larry the Bird whistles, repeats your voice, and reacts to user input.",
     "icon": "icons/o7/0x00003.png"
-  }
+  },
+  {
+    "id": "0x00004",
+    "name": "Talking Harry the Hedgehog",
+    "category": "O7",
+    "developer": "Outfit7",
+    "status": "Alive",
+    "platform": ["Android", "iOS"]
+    "release_year": 2010,
+    "description": "Harry the Hedgehog runs at Superhuman speed and responds to user input.",
+    "controversy_description": "Harry's headband had a symbol on it which looked similar to the infamous Rising Sun Flag. Outfit7 received complaints because it was seen as controversial, and the logo on the headband was subsequently removed on the 23rd of March, 2012. However, this was never removed from the Android version of the game, due to a later lack of supporting the Android version of the app. This is the first controversy of an Outfit7 app."
+    "icon": "icons/o7/0x00004.png"
 ]
