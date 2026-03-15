@@ -1,0 +1,33 @@
+[
+  {
+    "id": "0x00001",
+    "name": "Talking Tom Cat",
+    "category": "O7",
+    "developer": "Outfit7",
+    "status": "Alive",
+    "platform": ["Android", "iOS"],
+    "release_year": 2010,
+    "description": "The original Talking Tom app where Tom repeats what you say and reacts to touch.",
+    "icon": "icons/o7/0x00001.png"
+  },
+  {
+    "id": "0x00002",
+    "name": "Talking Baby Hippo",
+    "category": "O7",
+    "developer": "Outfit7",
+    "status": "Alive",
+    "platform": ["Android", "iOS"],
+    "description": "A cute baby hippo that repeats your voice and reacts to interactions.",
+    "icon": "icons/o7/0x00002.png"
+  },
+  {
+    "id": "0x00003",
+    "name": "Talking Larry the Bird",
+    "category": "O7",
+    "developer": "Outfit7",
+    "status": "Alive",
+    "platform": ["Android", "iOS"],
+    "description": "Larry the Bird whistles, repeats your voice, and reacts to user input.",
+    "icon": "icons/o7/0x00003.png"
+  }
+]
