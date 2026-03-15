@@ -24,16 +24,16 @@ We used our own exclusive for this application, let me show you what are they!
 ## 5x - Android Market / Google Play Exclusives
 ## 6x - App extensions / Different Hardware Only
 To avoid confusion between different apps, you must select a category from the following:
-O7 - Outfit7
-Wii - Nintendo Wii
-WW - WiiWare
-DS - Nintendo DS
-DW - DSiWare
-3DS - Nintendo 3DS
-CTRSA - 3DS System Applications
-AA - Apple Arcade/Apps
-AM - Android Apps (using AM for Android Market which is now Google Play Store)
-HW - Different Hardware Exclusive Apps
+## O7 - Outfit7
+## Wii - Nintendo Wii
+## WW - WiiWare
+## DS - Nintendo DS
+## DW - DSiWare
+## 3DS - Nintendo 3DS
+## CTRSA - 3DS System Applications
+## AA - Apple Arcade/Apps
+## AM - Android Apps (using AM for Android Market which is now Google Play Store)
+## HW - Different Hardware Exclusive Apps
 # Example Database Code
 > [!NOTE]
 > Your database must be coded in JSON and must have a /db/ directory as its parent.
