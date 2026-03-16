@@ -1,26 +1,38 @@
 [
-	{
-		"id": "0x00001",
+  {
+    "id": "0x00001",
     "name": "Wii Startup Disc",
     "category": "Wii",
     "developer": "Nintendo",
     "status": "Partially Found",
     "platform": ["Wii"],
-    "release_year": 2004,
-    "description": "A Non-Game Disc that installed the Wii System Menu and at the time it was packed with all Wii Consoles and was One-Use only. Even before Wii Sports, this was the first ever Wii Disc that wasnt released to the public. And is now Partially Found.",
+    "release_year": 2006,
+    "description": "A rare initialization disc used only on early pre-installed Wii consoles. It was required to complete system setup on certain launch units and was never sold at retail.",
     "controversy_description": "None.",
     "icon": "icons/Wii/0x00001.png"
-	},
+  },
   {
-  	"id": "0x00002",
-  	"name": "Wii Sports",
-  	"category": "Wii",
-  	"developer": "Nintendo",
-  	"status": "Alive",
-  	"platform": ["Wii"],
-  	"release_year": 2006,
-  	"description": "A collection of motion-controlled sports games including Tennis, Bowling, Baseball, Boxing, and Golf. Bundled with most Wii consoles and widely credited for the system's global success.",
-  	"controversy_description": "None.",
-  	"icon": "icons/Wii/0x00002.png"
+    "id": "0x00002",
+    "name": "Wii Sports",
+    "category": "Wii",
+    "developer": "Nintendo",
+    "status": "Alive",
+    "platform": ["Wii"],
+    "release_year": 2006,
+    "description": "A collection of motion-controlled sports games including Tennis, Bowling, Baseball, Boxing, and Golf. Bundled with most Wii consoles and widely credited for the system's global success.",
+    "controversy_description": "None.",
+    "icon": "icons/Wii/0x00002.png"
+  },
+  {
+    "id": "0x00003",
+    "name": "Wii Play",
+    "category": "Wii",
+    "developer": "Nintendo",
+    "status": "Alive",
+    "platform": ["Wii"],
+    "release_year": 2006,
+    "description": "A set of simple motion-controlled mini-games bundled with a Wii Remote, designed to teach players the basics of Wii controls.",
+    "controversy_description": "None.",
+    "icon": "icons/Wii/0x00003.png"
   }
 ]
