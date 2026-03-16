@@ -19,14 +19,16 @@ We used our own exclusive for this application, let me show you what are they!
 ## 0x - Full Versions
 ## 1x - Lite, Non-Full Release Versions
 ## 2x - Sequels
-## 3x - Apple Arcade / Apple Device Exclusive
+## 3x - Apple Arcade / Apple Device Exclusive / Device Store Exclusive
 ## 4x - CHN Region Applications or CHN Variants
-## 5x - Android Market / Google Play Exclusives
+## 5x - Android Market / Google Play / Nintendo eShop / Wii Shop Channel Exclusives
 ## 6x - App extensions / Different Hardware Only
 To avoid confusion between different apps, you must select a category from the following:
 ## O7 - Outfit7
 ## Wii - Nintendo Wii
 ## WW - WiiWare
+## WU - Wii U
+## CFESA - Wii U System Applications
 ## DS - Nintendo DS
 ## DW - DSiWare
 ## 3DS - Nintendo 3DS
