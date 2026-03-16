@@ -20,7 +20,7 @@ We used our own exclusive for this application, let me show you what are they!
 ## 1x - Lite, Non-Full Release Versions
 ## 2x - Sequels
 ## 3x - Apple Arcade / Apple Device Exclusive / Device Store Exclusive
-## 4x - CHN Region Applications or CHN Variants
+## 4x - Other Region Applications / Other Region Exclusives
 ## 5x - Android Market / Google Play / Nintendo eShop / Wii Shop Channel Exclusives
 ## 6x - App extensions / Different Hardware Only
 To avoid confusion between different apps, you must select a category from the following:
