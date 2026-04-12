@@ -31,6 +31,7 @@ To avoid confusion between different apps, you must select a category from the f
 ## CFESA - Wii U System Applications
 ## DS - Nintendo DS
 ## DW - DSiWare
+### DSi System Applications count as DSiWare
 ## 3DS - Nintendo 3DS
 ## CTRSA - 3DS System Applications
 ## AA - Apple Arcade/Apps
