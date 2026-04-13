@@ -10,5 +10,113 @@
     "description": "The Original Minecraft Pocket Edition App! Enlisted on the Android Market on October 7, 2011. Later releasing on iOS on November 17, 2011",
     "controversy_description": "From 2011, Minecraft PE has had several controversies before its Bedrock transfer which are: Extreme Lack of Features, The Pocket Limitations, Performance Issues, Replacement of Free Content and Hardcore Limitations/Slow Updates compared to Java Edition and Bedrock Edition.",
     "icon": "icons/am/0x00001.png"
+  },
+  {
+    "id": "0x00002",
+    "name": "Minecraft PE Lite",
+    "category": "AM",
+    "developer": "Mojang Studios AB",
+    "status": "Dead",
+    "platform": ["iOS"],
+    "release_year": 2011,
+    "description": "A free, limited version of Minecraft Pocket Edition designed to showcase the game before purchase. Featured a small world, limited blocks, and no survival mode.",
+    "controversy_description": "Criticized for being extremely restricted, lacking survival mode, and not receiving updates after early 2012. Many users viewed it as abandoned even before the full PE matured.",
+    "icon": "icons/am/0x00002.png"
+  },
+  {
+    "id": "0x00003",
+    "name": "Google+",
+    "category": "AM",
+    "developer": "Google LLC",
+    "status": "Dead",
+    "platform": ["Android", "iOS", "Web"],
+    "release_year": 2011,
+    "description": "Google’s attempt at a social network, integrating Circles, Hangouts, and Google services. Initially launched as an invite-only platform before expanding globally.",
+    "controversy_description": "Faced criticism for forced integration with YouTube comments, low user engagement, and a major data exposure incident in 2018 that accelerated its shutdown.",
+    "icon": "icons/am/0x00003.png"
+  },
+  {
+    "id": "0x00004",
+    "name": "Google Talk",
+    "category": "AM",
+    "developer": "Google LLC",
+    "status": "Dead",
+    "platform": ["Android", "Windows", "Web"],
+    "release_year": 2005,
+    "description": "Google’s original instant messaging service using the XMPP protocol. Supported text chat, VoIP, and integration with Gmail before being replaced by Hangouts.",
+    "controversy_description": "Criticized for inconsistent feature support across platforms, gradual abandonment in favor of Hangouts, and the eventual shutdown of XMPP federation which alienated long-time users.",
+    "icon": "icons/am/0x00004.png"
+  },
+  {
+    "id": "0x00005",
+    "name": "Android Market",
+    "category": "AM",
+    "developer": "Google LLC",
+    "status": "Dead",
+    "platform": ["Android"],
+    "release_year": 2008,
+    "description": "The original app distribution platform for Android devices before its rebranding to Google Play in 2012.",
+    "controversy_description": "Known for weak security, rampant malware, and inconsistent app quality control. The rebrand to Google Play was partly an attempt to distance from these issues.",
+    "icon": "icons/am/0x00005.png"
+  },
+  {
+    "id": "0x00006",
+    "name": "Google Listen",
+    "category": "AM",
+    "developer": "Google Labs",
+    "status": "Dead",
+    "platform": ["Android"],
+    "release_year": 2009,
+    "description": "A podcast discovery and listening app created by Google Labs, offering early podcast subscription syncing with Google Reader.",
+    "controversy_description": "Abandoned after Google Reader’s shutdown, leaving users without migration tools. Seen as another example of Google killing niche but beloved services.",
+    "icon": "icons/am/0x00006.png"
+  },
+  {
+    "id": "0x00007",
+    "name": "Google Shopper",
+    "category": "AM",
+    "developer": "Google LLC",
+    "status": "Dead",
+    "platform": ["Android", "iOS"],
+    "release_year": 2010,
+    "description": "A barcode and image-based shopping comparison tool that let users scan products to find prices and reviews.",
+    "controversy_description": "Criticized for inaccurate price listings and slow scanning performance. Eventually merged into Google Search and discontinued.",
+    "icon": "icons/am/0x00007.png"
+  },
+  {
+    "id": "0x00008",
+    "name": "Google Goggles",
+    "category": "AM",
+    "developer": "Google LLC",
+    "status": "Dead",
+    "platform": ["Android"],
+    "release_year": 2010,
+    "description": "An early visual search app allowing users to identify objects, landmarks, and text using the phone camera.",
+    "controversy_description": "Praised for innovation but criticized for inconsistent recognition accuracy. Later replaced by Google Lens.",
+    "icon": "icons/am/0x00008.png"
+  },
+  {
+    "id": "0x00009",
+    "name": "YouTube Remote",
+    "category": "AM",
+    "developer": "Google LLC",
+    "status": "Dead",
+    "platform": ["Android"],
+    "release_year": 2010,
+    "description": "An app that allowed Android phones to act as remote controls for YouTube Leanback on TVs and computers.",
+    "controversy_description": "Users complained about connection instability and lack of updates. Eventually replaced by native casting features.",
+    "icon": "icons/am/0x00009.png"
+  },
+  {
+    "id": "0x0000A",
+    "name": "Google Currents (Classic)",
+    "category": "AM",
+    "developer": "Google LLC",
+    "status": "Dead",
+    "platform": ["Android", "iOS"],
+    "release_year": 2011,
+    "description": "A magazine-style news and article reader that aggregated content from publishers and RSS feeds.",
+    "controversy_description": "Replaced by Google Play Newsstand, then Google News, making it one of Google’s many short-lived content apps.",
+    "icon": "icons/am/0x0000A.png"
   }
 ]
