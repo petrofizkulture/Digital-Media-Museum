@@ -1,0 +1,14 @@
+[
+  {
+    "id": "0x00001",
+    "name": "UNIX",
+    "category": "OS",
+    "developer": "AT&T Bell Labs",
+    "status": "Dead",
+    "platform": ["PC"],
+    "release_year": 1969,
+    "description": "The Operating System that started it all.",
+    "controversy_description": "Obviously None.",
+    "icon": "icons/O7/0x00001.png"
+  }
+]
