@@ -5,6 +5,9 @@
 > If you paid for this software, DEMAND YOUR MONEY BACK IMMEDIATELY. YOU HAVE BEEN SCAMMED.
 > Any logos, trademarks, registries belong to their respective owners. I do not own any of the images displayed in the final version of the app.
 
+> [!TIP]
+> The insider branch is more focused on beta features that will be releasing in the next main branch release.
+
 > [!NOTE]
 >  If the app crashes suddenly,doesnt start up, errors, or straight up crashes the OS (which idk how that is possible), Create a [Github Issue](https://github.com/petrofizkulture/Digital-Media-Museum/issues).
 
