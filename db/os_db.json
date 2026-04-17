@@ -70,5 +70,126 @@
     "description": "A lightweight, rolling-release Linux distribution focused on simplicity, user control, and minimalism.",
     "controversy_description": "Criticized for being difficult for beginners and for occasional breakage due to its rolling-release nature.",
     "icon": "icons/OS/0x00006.png"
+  },
+  {
+    "id": "0x00007",
+    "name": "Gentoo Linux",
+    "category": "OS",
+    "developer": "Gentoo Foundation",
+    "status": "Alive",
+    "platform": ["PC", "Servers"],
+    "release_year": 2000,
+    "description": "A highly customizable Linux distribution built around source-based package management and user control.",
+    "controversy_description": "Criticized for long compile times and being too complex for average users.",
+    "icon": "icons/OS/0x00007.png"
+  },
+  {
+    "id": "0x00008",
+    "name": "Slackware",
+    "category": "OS",
+    "developer": "Patrick Volkerding",
+    "status": "Alive",
+    "platform": ["PC"],
+    "release_year": 1993,
+    "description": "One of the oldest surviving Linux distributions, known for its simplicity and UNIX-like design.",
+    "controversy_description": "Criticized for slow release cycles and lack of modern conveniences found in other distros.",
+    "icon": "icons/OS/0x00008.png"
+  },
+  {
+    "id": "0x00009",
+    "name": "openSUSE",
+    "category": "OS",
+    "developer": "openSUSE Project",
+    "status": "Alive",
+    "platform": ["PC", "Servers"],
+    "release_year": 2005,
+    "description": "A polished Linux distribution known for YaST, stability, and strong enterprise backing from SUSE.",
+    "controversy_description": "Some users dislike the heavy reliance on YaST and the split between Leap and Tumbleweed.",
+    "icon": "icons/OS/0x00009.png"
+  },
+  {
+    "id": "0x0000A",
+    "name": "Manjaro",
+    "category": "OS",
+    "developer": "Manjaro GmbH & Co. KG",
+    "status": "Alive",
+    "platform": ["PC"],
+    "release_year": 2011,
+    "description": "A user-friendly Arch-based distribution offering easier installation and curated rolling updates.",
+    "controversy_description": "Criticized for occasional repository delays and past team management controversies.",
+    "icon": "icons/OS/0x0000A.png"
+  },
+  {
+    "id": "0x0000B",
+    "name": "Linux Mint",
+    "category": "OS",
+    "developer": "Linux Mint Team",
+    "status": "Alive",
+    "platform": ["PC"],
+    "release_year": 2006,
+    "description": "A popular Ubuntu-based distribution focused on ease of use, stability, and a traditional desktop experience.",
+    "controversy_description": "Faced criticism for security delays and its past reliance on unsafe update policies.",
+    "icon": "icons/OS/0x0000B.png"
+  },
+  {
+    "id": "0x0000C",
+    "name": "Kali Linux",
+    "category": "OS",
+    "developer": "Offensive Security",
+    "status": "Alive",
+    "platform": ["PC", "Servers"],
+    "release_year": 2013,
+    "description": "A Debian-based distribution designed for penetration testing, security research, and digital forensics.",
+    "controversy_description": "Often misused by beginners, leading to misconceptions about its purpose and security risks.",
+    "icon": "icons/OS/0x0000C.png"
+  },
+  {
+    "id": "0x0000D",
+    "name": "Linux for PlayStation 2",
+    "category": "OS",
+    "developer": "Sony Computer Entertainment",
+    "status": "Dead",
+    "platform": ["PlayStation 2"],
+    "release_year": 2002,
+    "description": "An official Linux port for the PlayStation 2, enabling the console to function as a basic computer.",
+    "controversy_description": "Limited hardware access and poor performance restricted its usefulness.",
+    "icon": "icons/OS/0x0000D.png"
+  },
+  {
+    "id": "0x0000E",
+    "name": "Linux for Wii",
+    "category": "OS",
+    "developer": "Homebrew Community",
+    "status": "Alive",
+    "platform": ["Nintendo Wii"],
+    "release_year": 2008,
+    "description": "A community-driven Linux port for the Nintendo Wii, running via exploits and homebrew loaders.",
+    "controversy_description": "Performance limitations and lack of official support restricted mainstream adoption.",
+    "icon": "icons/OS/0x0000E.png"
+  },
+  {
+    "id": "0x0000F",
+    "name": "Linux for Dreamcast",
+    "category": "OS",
+    "developer": "Dreamcast Linux Team",
+    "status": "Dead",
+    "platform": ["Sega Dreamcast"],
+    "release_year": 2001,
+    "description": "A Linux port for the Sega Dreamcast, showcasing the console’s potential beyond gaming.",
+    "controversy_description": "Hampered by extremely limited RAM and storage, making it impractical for real use.",
+    "icon": "icons/OS/0x0000F.png"
+  },
+  {
+    "id": "0x00010",
+    "name": "iPodLinux",
+    "category": "OS",
+    "developer": "iPodLinux Project",
+    "status": "Dead",
+    "platform": ["iPod Classic"],
+    "release_year": 2003,
+    "description": "A Linux distribution ported to early iPod models, enabling games, apps, and custom firmware features.",
+    "controversy_description": "Apple firmware updates frequently broke compatibility, and development eventually stalled.",
+    "icon": "icons/OS/0x00010.png"
   }
 ]
+
