@@ -34,5 +34,90 @@
     "description": "A set of simple motion-controlled mini-games bundled with a Wii Remote, designed to teach players the basics of Wii controls.",
     "controversy_description": "None.",
     "icon": "icons/Wii/0x00003.png"
+  },
+  {
+    "id": "0x00004",
+    "name": "Wii Fit",
+    "category": "Wii",
+    "developer": "Nintendo",
+    "status": "Alive",
+    "platform": ["Wii"],
+    "release_year": 2007,
+    "description": "A fitness game that introduced the Wii Balance Board, offering yoga, strength training, aerobics, and balance activities.",
+    "controversy_description": "Some criticism over BMI-based measurements and weight sensitivity.",
+    "icon": "icons/Wii/0x00004.png"
+  },
+  {
+    "id": "0x00005",
+    "name": "Wii Fit Plus",
+    "category": "Wii",
+    "developer": "Nintendo",
+    "status": "Alive",
+    "platform": ["Wii"],
+    "release_year": 2009,
+    "description": "An enhanced version of Wii Fit featuring new exercises, balance games, and customizable workout routines.",
+    "controversy_description": "Same BMI-related criticisms as the original Wii Fit.",
+    "icon": "icons/Wii/0x00005.png"
+  },
+  {
+    "id": "0x00006",
+    "name": "Wii Sports Resort",
+    "category": "Wii",
+    "developer": "Nintendo",
+    "status": "Alive",
+    "platform": ["Wii"],
+    "release_year": 2009,
+    "description": "A sequel to Wii Sports introducing Wii MotionPlus precision controls and new activities such as Swordplay, Archery, and Air Sports.",
+    "controversy_description": "None.",
+    "icon": "icons/Wii/0x00006.png"
+  },
+  {
+    "id": "0x00007",
+    "name": "New Super Mario Bros. Wii",
+    "category": "Wii",
+    "developer": "Nintendo",
+    "status": "Alive",
+    "platform": ["Wii"],
+    "release_year": 2009,
+    "description": "A side-scrolling Mario platformer featuring four-player co-op and classic Mario gameplay with modern enhancements.",
+    "controversy_description": "Some fans criticized the difficulty spikes and chaotic multiplayer.",
+    "icon": "icons/Wii/0x00007.png"
+  },
+  {
+    "id": "0x00008",
+    "name": "Mario Kart Wii",
+    "category": "Wii",
+    "developer": "Nintendo",
+    "status": "Alive",
+    "platform": ["Wii"],
+    "release_year": 2008,
+    "description": "A kart racing game featuring motion controls, online play, motorcycles, and the iconic Wii Wheel accessory.",
+    "controversy_description": "Rubberband AI and item imbalance were common complaints.",
+    "icon": "icons/Wii/0x00008.png"
+  },
+  {
+    "id": "0x00009",
+    "name": "Super Smash Bros. Brawl",
+    "category": "Wii",
+    "developer": "Nintendo / Sora Ltd.",
+    "status": "Alive",
+    "platform": ["Wii"],
+    "release_year": 2008,
+    "description": "A crossover fighting game featuring characters from across Nintendo franchises, introducing the Subspace Emissary story mode.",
+    "controversy_description": "Competitive players criticized input lag and random tripping.",
+    "icon": "icons/Wii/0x00009.png"
+  },
+  {
+    "id": "0x0000A",
+    "name": "The Legend of Zelda: Twilight Princess",
+    "category": "Wii",
+    "developer": "Nintendo",
+    "status": "Alive",
+    "platform": ["Wii"],
+    "release_year": 2006,
+    "description": "An action-adventure game and Wii launch title featuring motion-controlled swordplay and a darker tone compared to previous Zelda games.",
+    "controversy_description": "Some fans disliked the mirrored world layout compared to the GameCube version.",
+    "icon": "icons/Wii/0x0000A.png"
   }
 ]
+
