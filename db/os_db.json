@@ -9,6 +9,66 @@
     "release_year": 1969,
     "description": "The Operating System that started it all.",
     "controversy_description": "Obviously None.",
-    "icon": "icons/O7/0x00001.png"
+    "icon": "icons/OS/0x00001.png"
+  },
+  {
+    "id": "0x00002",
+    "name": "Linux",
+    "category": "OS",
+    "developer": "Linus Torvalds",
+    "status": "Alive",
+    "platform": ["PC", "Servers", "Embedded"],
+    "release_year": 1991,
+    "description": "A free and open-source kernel that became the foundation for countless operating systems and distributions.",
+    "controversy_description": "Occasional disagreements within the kernel development community, including governance disputes and Torvalds' communication style.",
+    "icon": "icons/OS/0x00002.png"
+  },
+  {
+    "id": "0x00003",
+    "name": "Debian",
+    "category": "OS",
+    "developer": "Debian Project",
+    "status": "Alive",
+    "platform": ["PC", "Servers"],
+    "release_year": 1993,
+    "description": "One of the oldest and most influential Linux distributions, known for stability, strict free software guidelines, and forming the base for many other distros.",
+    "controversy_description": "Internal debates over systemd adoption and free software purity have caused community splits.",
+    "icon": "icons/OS/0x00003.png"
+  },
+  {
+    "id": "0x00004",
+    "name": "Ubuntu",
+    "category": "OS",
+    "developer": "Canonical Ltd.",
+    "status": "Alive",
+    "platform": ["PC", "Servers"],
+    "release_year": 2004,
+    "description": "A user-friendly Linux distribution based on Debian, designed to make Linux accessible to the mainstream.",
+    "controversy_description": "Criticized for decisions like the Unity desktop, Amazon search integration, and Snap package prioritization.",
+    "icon": "icons/OS/0x00004.png"
+  },
+  {
+    "id": "0x00005",
+    "name": "Fedora",
+    "category": "OS",
+    "developer": "Fedora Project (Red Hat)",
+    "status": "Alive",
+    "platform": ["PC", "Servers"],
+    "release_year": 2003,
+    "description": "A cutting-edge Linux distribution sponsored by Red Hat, serving as a testing ground for technologies that later appear in Red Hat Enterprise Linux.",
+    "controversy_description": "Known for adopting new technologies early, sometimes causing stability concerns among users.",
+    "icon": "icons/OS/0x00005.png"
+  },
+  {
+    "id": "0x00006",
+    "name": "Arch Linux",
+    "category": "OS",
+    "developer": "Judd Vinet",
+    "status": "Alive",
+    "platform": ["PC"],
+    "release_year": 2002,
+    "description": "A lightweight, rolling-release Linux distribution focused on simplicity, user control, and minimalism.",
+    "controversy_description": "Criticized for being difficult for beginners and for occasional breakage due to its rolling-release nature.",
+    "icon": "icons/OS/0x00006.png"
   }
 ]
