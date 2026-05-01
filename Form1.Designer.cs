@@ -196,7 +196,7 @@
             // categoryFilter
             // 
             categoryFilter.DropDownStyle = ComboBoxStyle.DropDownList;
-            categoryFilter.Items.AddRange(new object[] { "Outfit7", "Wii", "Android (INS)" });
+            categoryFilter.Items.AddRange(new object[] { "Outfit7", "Wii", "Android (INS), OS (INS)" });
             categoryFilter.Location = new Point(10, 30);
             categoryFilter.Name = "categoryFilter";
             categoryFilter.Size = new Size(100, 23);
