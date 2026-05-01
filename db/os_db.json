@@ -190,6 +190,127 @@
     "description": "A Linux distribution ported to early iPod models, enabling games, apps, and custom firmware features.",
     "controversy_description": "Apple firmware updates frequently broke compatibility, and development eventually stalled.",
     "icon": "icons/OS/0x00010.png"
+  },
+  {
+    "id": "0x00011",
+    "name": "Pop!_OS",
+    "category": "OS",
+    "developer": "System76",
+    "status": "Alive",
+    "platform": ["PC"],
+    "release_year": 2017,
+    "description": "A user-friendly Ubuntu-based Linux distribution optimized for creators, developers, and System76 hardware, featuring tiling window management and strong GPU support.",
+    "controversy_description": "Some users criticized the shift from GNOME to COSMIC due to fragmentation concerns.",
+    "icon": "icons/OS/0x00011.png"
+  },
+  {
+    "id": "0x00012",
+    "name": "Elementary OS",
+    "category": "OS",
+    "developer": "Elementary, Inc.",
+    "status": "Alive",
+    "platform": ["PC"],
+    "release_year": 2011,
+    "description": "A visually polished Ubuntu-based distribution inspired by macOS, focusing on simplicity, design consistency, and a curated app ecosystem.",
+    "controversy_description": "Faced backlash for its pay-what-you-want download model and slow major releases.",
+    "icon": "icons/OS/0x00012.png"
+  },
+  {
+    "id": "0x00013",
+    "name": "Zorin OS",
+    "category": "OS",
+    "developer": "Zorin Group",
+    "status": "Alive",
+    "platform": ["PC"],
+    "release_year": 2009,
+    "description": "An Ubuntu-based distribution designed to provide a familiar experience for users transitioning from Windows.",
+    "controversy_description": "Some users criticized the paywalled 'Ultimate' edition.",
+    "icon": "icons/OS/0x00013.png"
+  },
+  {
+    "id": "0x00014",
+    "name": "AlmaLinux",
+    "category": "OS",
+    "developer": "AlmaLinux OS Foundation",
+    "status": "Alive",
+    "platform": ["PC", "Servers"],
+    "release_year": 2021,
+    "description": "A community-driven, binary-compatible replacement for CentOS after Red Hat shifted CentOS to a rolling-release model.",
+    "controversy_description": "Faced uncertainty after Red Hat restricted access to RHEL source code.",
+    "icon": "icons/OS/0x00014.png"
+  },
+  {
+    "id": "0x00015",
+    "name": "Rocky Linux",
+    "category": "OS",
+    "developer": "Rocky Enterprise Software Foundation",
+    "status": "Alive",
+    "platform": ["PC", "Servers"],
+    "release_year": 2021,
+    "description": "A RHEL-compatible distribution created by CentOS co-founder Gregory Kurtzer as a successor to classic CentOS.",
+    "controversy_description": "Similar concerns as AlmaLinux regarding RHEL source code access.",
+    "icon": "icons/OS/0x00015.png"
+  },
+  {
+    "id": "0x00016",
+    "name": "Funtoo Linux",
+    "category": "OS",
+    "developer": "Daniel Robbins",
+    "status": "Alive",
+    "platform": ["PC"],
+    "release_year": 2008,
+    "description": "A Gentoo-based distribution created by Gentoo’s original founder, focusing on performance and improved package management.",
+    "controversy_description": "Criticized for slower updates and smaller community compared to Gentoo.",
+    "icon": "icons/OS/0x00016.png"
+  },
+  {
+    "id": "0x00017",
+    "name": "Ubuntu Touch",
+    "category": "OS",
+    "developer": "UBports",
+    "status": "Alive",
+    "platform": ["Mobile"],
+    "release_year": 2015,
+    "description": "A mobile Linux operating system originally developed by Canonical, later continued by the UBports community.",
+    "controversy_description": "Canonical’s sudden abandonment of the project caused backlash from early adopters.",
+    "icon": "icons/OS/0x00017.png"
+  },
+  {
+    "id": "0x00018",
+    "name": "postmarketOS",
+    "category": "OS",
+    "developer": "postmarketOS Project",
+    "status": "Alive",
+    "platform": ["Mobile"],
+    "release_year": 2017,
+    "description": "A Linux distribution for smartphones aiming for a 10-year lifecycle, based on Alpine Linux.",
+    "controversy_description": "Limited hardware support and slow progress on daily-driver readiness.",
+    "icon": "icons/OS/0x00018.png"
+  },
+  {
+    "id": "0x00019",
+    "name": "Sailfish OS",
+    "category": "OS",
+    "developer": "Jolla",
+    "status": "Alive",
+    "platform": ["Mobile"],
+    "release_year": 2013,
+    "description": "A Linux-based mobile OS featuring gesture navigation and partial Android app compatibility.",
+    "controversy_description": "Criticized for proprietary components and limited device support.",
+    "icon": "icons/OS/0x00019.png"
+  },
+  {
+    "id": "0x0001A",
+    "name": "Maemo",
+    "category": "OS",
+    "developer": "Nokia",
+    "status": "Dead",
+    "platform": ["Mobile"],
+    "release_year": 2005,
+    "description": "A Linux-based mobile OS used on Nokia Internet Tablets and early smartphones, known for its openness and multitasking.",
+    "controversy_description": "Discontinued after Nokia shifted to MeeGo and later Windows Phone.",
+    "icon": "icons/OS/0x0001A.png"
   }
 ]
+
 
