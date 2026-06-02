@@ -128,6 +128,7 @@
     "platform": ["Android", "iOS/iPadOS", "Windows", "Xbox", "PlayStation", "Standalone VR / PCVR"],
     "release_year": "2016-2026",
     "description": "A Social Hangout game with PC, Mobile, Console and VR Crossplay!",
-    "controversy_description": "In March 2026, Rec Room Inc. announced the games shutdown on June 1st, 2026 12PM PT because of the developers could 'not find a way to make it sustainably profitable.' Despite its large Player Count (150 Million Players) and which the company was once valued at $3.5 billion."
+    "controversy_description": "In March 2026, Rec Room Inc. announced the games shutdown on June 1st, 2026 12PM PT because of the developers could 'not find a way to make it sustainably profitable.' Despite its large Player Count (150 Million Players) and which the company was once valued at $3.5 billion.",
+    "icon": "icons/am/0x0000B.png"
   }
 ]
