@@ -122,7 +122,7 @@
   {
     "id": "0x0000B",
     "name": "Rec Room",
-    "category": "Mobile",
+    "category": ["Mobile", "Console", "VR", "PC"],
     "developer": "Against Gravity Corp. (Now Rec Room Inc.)"
     "status": "Dead",
     "platform": ["Android", "iOS/iPadOS", "Windows", "Xbox", "PlayStation", "Standalone VR / PCVR"],
