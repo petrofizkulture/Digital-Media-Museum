@@ -2,7 +2,7 @@
   {
     "id": "0x00001",
     "name": "Minecraft PE",
-    "category": "AM",
+    "category": "Mobile",
     "developer": "Mojang Studios AB",
     "status": "Dead",
     "platform": ["Android", "iOS"],
@@ -14,7 +14,7 @@
   {
     "id": "0x00002",
     "name": "Minecraft PE Lite",
-    "category": "AM",
+    "category": "Mobile",
     "developer": "Mojang Studios AB",
     "status": "Dead",
     "platform": ["iOS"],
@@ -26,7 +26,7 @@
   {
     "id": "0x00003",
     "name": "Google+",
-    "category": "AM",
+    "category": "Mobile",
     "developer": "Google LLC",
     "status": "Dead",
     "platform": ["Android", "iOS", "Web"],
@@ -38,7 +38,7 @@
   {
     "id": "0x00004",
     "name": "Google Talk",
-    "category": "AM",
+    "category": "Mobile",
     "developer": "Google LLC",
     "status": "Dead",
     "platform": ["Android", "Windows", "Web"],
@@ -50,7 +50,7 @@
   {
     "id": "0x00005",
     "name": "Android Market",
-    "category": "AM",
+    "category": "Mobile",
     "developer": "Google LLC",
     "status": "Dead",
     "platform": ["Android"],
@@ -62,7 +62,7 @@
   {
     "id": "0x00006",
     "name": "Google Listen",
-    "category": "AM",
+    "category": "Mobile",
     "developer": "Google Labs",
     "status": "Dead",
     "platform": ["Android"],
@@ -74,7 +74,7 @@
   {
     "id": "0x00007",
     "name": "Google Shopper",
-    "category": "AM",
+    "category": "Mobile",
     "developer": "Google LLC",
     "status": "Dead",
     "platform": ["Android", "iOS"],
@@ -86,7 +86,7 @@
   {
     "id": "0x00008",
     "name": "Google Goggles",
-    "category": "AM",
+    "category": "Mobile",
     "developer": "Google LLC",
     "status": "Dead",
     "platform": ["Android"],
@@ -98,7 +98,7 @@
   {
     "id": "0x00009",
     "name": "YouTube Remote",
-    "category": "AM",
+    "category": "Mobile",
     "developer": "Google LLC",
     "status": "Dead",
     "platform": ["Android"],
@@ -110,7 +110,7 @@
   {
     "id": "0x0000A",
     "name": "Google Currents (Classic)",
-    "category": "AM",
+    "category": "Mobile",
     "developer": "Google LLC",
     "status": "Dead",
     "platform": ["Android", "iOS"],
@@ -118,5 +118,16 @@
     "description": "A magazine-style news and article reader that aggregated content from publishers and RSS feeds.",
     "controversy_description": "Replaced by Google Play Newsstand, then Google News, making it one of Google’s many short-lived content apps.",
     "icon": "icons/am/0x0000A.png"
+  },
+  {
+    "id": "0x0000B",
+    "name": "Rec Room",
+    "category": "Mobile",
+    "developer": "Against Gravity Corp. (Now Rec Room Inc.)"
+    "status": "Dead",
+    "platform": ["Android", "iOS/iPadOS", "Windows", "Xbox", "PlayStation", "Standalone VR / PCVR"],
+    "release_year": "2016-2026",
+    "description": "A Social Hangout game with PC, Mobile, Console and VR Crossplay!",
+    "controversy_description": "In March 2026, Rec Room Inc. announced the games shutdown on June 1st, 2026 12PM PT because of the developers could 'not find a way to make it sustainably profitable.' Despite its large Player Count (150 Million Players) and which the company was once valued at $3.5 billion."
   }
 ]
